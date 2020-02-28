@@ -1,0 +1,4 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Se debe leer 10 números pedidos por teclado, almacenarnos en un array/matriz/vector/arreglo (usando un for) y posteriomente mostrarlos.
+	

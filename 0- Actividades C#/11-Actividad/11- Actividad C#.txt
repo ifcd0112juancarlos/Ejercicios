@@ -1,0 +1,8 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Se debe leer 10 números pedidos por teclado, almacenarnos en un array/matriz/vector/arreglo (usando un for) y posteriomente mostrarlos. 
+
+*Añadido: Se debe almacenar y mostrar la suma y multiplicación de todos. 
+*Añadido: Se debe mostrar el número mayor y el menor, leyéndolos desde la matriz.
+
+	
