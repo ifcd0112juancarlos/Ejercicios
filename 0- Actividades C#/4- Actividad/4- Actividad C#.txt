@@ -1,0 +1,3 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Usar la estructura "for" para sumar los 1000 primeros números enteros, empezando por el 1000 y terminando por el 1, es decir: 1000 + 999 + 998+...+ 1, mostrando el resultado.

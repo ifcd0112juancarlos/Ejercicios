@@ -1,0 +1,4 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Pedir un número del 1 al 12 por teclado para luego indicar el nombre del mes correspondiente (usando la estructura de control "switch - case - default").
+

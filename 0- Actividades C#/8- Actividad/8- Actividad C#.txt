@@ -1,0 +1,3 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Usar la/s estructura/s "while" para mostrar una frase en la que le pida al usuario la introducción de un nuevo número decimal, y vaya sumándolos hasta que el usuario decida no continuar al responder a la pregunta “¿Desea continuar con el sumatorio(S/N)?” . Finalmente debe mostrar el resultado de la suma total.

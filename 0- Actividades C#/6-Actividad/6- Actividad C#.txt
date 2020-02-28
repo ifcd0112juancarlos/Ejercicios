@@ -1,0 +1,20 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Mostrar las tablas de multiplicar desde la del 1 hasta la del 10, es decir, al ejecutar la aplicación se deberá visualizar lo siguiente:
+
+TABLAS DE MULTIPLICAR:
+
+	1 * 0 = 0
+	1 * 1 = 1
+	.
+	.
+	.
+	.
+	2 * 0 = 0
+	2 * 1 = 2
+	.
+	.
+	.
+	10 * 10 = 100
+
+GRACIAS POR UTILIZAR NUESTRA APLICACIÓN.

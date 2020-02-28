@@ -1,0 +1,5 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Usar las estructuras "While" y "Switch" para mostrar una frase en la que se pida por pantalla la introducción de una nueva letra y vaya diciendo si se corresponde con una vocal o no, hasta que el usuario decida no continuar respondiendo negativamente a la pregunta “¿Desea introducir una nueva letra (S/N)?”. Finalmente se debe mostrar las tres cantidades siguientes: total de letras introducidas, las que fueron vocales y las que no.
+
+	

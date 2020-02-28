@@ -1,0 +1,3 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Pedir tres valores numéricos, para luego mostrar por pantalla el mayor y el menor, y calcular  el valor de la suma, la resta, la multiplicación y la división de estos dos.

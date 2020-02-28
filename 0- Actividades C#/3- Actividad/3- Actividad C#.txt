@@ -1,0 +1,3 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Usar la estructura "for" que repita 10 veces la frase "Introduzca un número entero" para  posteriormente realizar la media de esos números.
