@@ -1,0 +1,5 @@
+Se debe realizar en C# la siguiente aplicación:
+
+Se debe leer 10 números pedidos por teclado, almacenarnos en un array/matriz/vector/arreglo (usando un for) y posteriomente pida una opción(Suma, Resta, Multiplicación o División). Tras esto pedirá 2 posiciones de dicho vector, y realizará la operación seleccionada. Se debe repetir la petición  de la operación hasta que el usuario decida salir (siempre a partir de la matriz original).
+
+	
